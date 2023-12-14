@@ -8,7 +8,7 @@ Creating a GraphQL API with Spring Boot involves integrating the GraphQL Java li
 
 **Method:** POST
 
-**Endpoint:** http://localhost:8080/api/graphql
+**Endpoint:** `http://localhost:8080/api/graphql`
 
 **Request Payload:** Select Body -> GraphQL and put below payload sample in Query
 
@@ -32,7 +32,7 @@ Example one with all details(id, title, author, description, publisher, price an
 
 **Method:** POST
 
-**Endpoint:** http://localhost:8080/api/graphql
+**Endpoint:** `http://localhost:8080/api/graphql`
 
 **Request Payload:** Select Body -> GraphQL and put below payload sample in Query
 
@@ -56,7 +56,7 @@ Another example with few details(title, author and description).
 
 **Method:** POST
 
-**Endpoint:** http://localhost:8080/api/graphql
+**Endpoint:** `http://localhost:8080/api/graphql`
 
 **Request Payload:** Select Body -> GraphQL and put below payload sample in Query
 
@@ -73,7 +73,7 @@ query {
 
 **Method:** POST
 
-**Endpoint:** http://localhost:8080/api/graphql
+**Endpoint:** `http://localhost:8080/api/graphql`
 
 **Request Payload:** Select Body -> GraphQL and put below payload sample in Query
 
@@ -104,7 +104,7 @@ mutation {
 
 **Method:** POST
 
-**Endpoint:** http://localhost:8080/api/graphql
+**Endpoint:** `http://localhost:8080/api/graphql`
 
 **Request Payload:** Select Body -> GraphQL and put below payload sample in Query
 
@@ -136,7 +136,7 @@ mutation {
 
 **Method:** POST
 
-**Endpoint:** http://localhost:8080/api/graphql
+**Endpoint:** `http://localhost:8080/api/graphql`
 
 **Request Payload:** Select Body -> GraphQL and put below payload sample in Query
 
